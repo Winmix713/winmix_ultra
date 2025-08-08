@@ -5,23 +5,32 @@
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "module": "ESNext",
     "skipLibCheck": true,
+ phase1-modern-football-prediction-system-migration-foundation
     
     /* Bundler mode */
+=======
+ main
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
+ phase1-modern-football-prediction-system-migration-foundation
     
     /* Linting */
+=======
+ main
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
+ phase1-modern-football-prediction-system-migration-foundation
     
     /* Path mapping */
     "baseUrl": ".",
+=======
+ main
     "paths": {
       "@/*": ["./src/*"]
     }
